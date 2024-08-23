@@ -141,7 +141,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone 
+git clone https://github.com/syedabd007/automating-security-audits-and-server-hardening-on-linux-server.git
 cd automation
 Make the scripts executable:
 
