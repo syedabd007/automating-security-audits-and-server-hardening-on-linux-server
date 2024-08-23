@@ -42,8 +42,4 @@ Copy code
 chmod +x *.sh
 
 
-### How to Use the `README.md`
-- Save this text in a file named `README.md` in the root of your project directory.
-- When someone views your GitHub repository, they will see this `README.md` file, which will explain how to use the scripts and what each one does.
-- Customize the repository URL and any other details to match your specific project.
 
