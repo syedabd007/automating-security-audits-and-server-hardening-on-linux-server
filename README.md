@@ -34,7 +34,7 @@ Clone the repository to your local machine:
 bash
 Copy code
 git clone https://github.com/yourusername/security-automation.git
-cd security-automation
+cd automation
 Make the scripts executable:
 
 bash
