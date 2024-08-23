@@ -141,7 +141,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/yourusername/automation.git
+git clone 
 cd automation
 Make the scripts executable:
 
